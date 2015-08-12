@@ -6,7 +6,7 @@
   "description": "CAH FTW",
   "dependencies": {
     "hubot": "^2.13.2",
-    "hubot-cah": "jasonrhodes/hubot-cah#4e950d79c739fd8eff4b8ff810f1ce1c8a4982e1",
+    "hubot-cah": "jasonrhodes/hubot-cah#e65eedc287800fb76c46cf648b24664a397dd9b6",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
