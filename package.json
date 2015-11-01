@@ -6,7 +6,7 @@
   "description": "CAH FTW",
   "dependencies": {
     "hubot": "^2.13.2",
-    "hubot-cah": "jasonrhodes/hubot-cah#5239908c2b1132d379c99d1104467dee05082327",
+    "hubot-cah": "jasonrhodes/hubot-cah#b28ef49649c8d102bbb3cb481ef5b5f4a23ef3e0",
     "hubot-deploy-queue": "colestrode/hubot-deploy-queue#f5b06557da3564934f9c6e5d3f2eaf0b301d5494",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
