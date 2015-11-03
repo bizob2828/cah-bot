@@ -7,7 +7,7 @@
   "dependencies": {
     "hubot": "^2.13.2",
     "hubot-cah": "jasonrhodes/hubot-cah#b28ef49649c8d102bbb3cb481ef5b5f4a23ef3e0",
-    "hubot-deploy-queue": "colestrode/hubot-deploy-queue#ffb458f85c1bee8fbdff0809e23c49ee6e58a5ce",
+    "hubot-deploy-queue": "colestrode/hubot-deploy-queue#0a55fb518790b731ee26c09e6f2c306cba75599d",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
